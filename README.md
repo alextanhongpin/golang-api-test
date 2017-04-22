@@ -1,3 +1,4 @@
+
 # Testing API endpoints using golang's httptest
 
 Difference between `io.WriteString`, `fmt.Fprintf` and `responseWriter.Write` 
